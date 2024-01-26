@@ -1,0 +1,119 @@
+[33mcommit 2d3feec892f207494b24f907f519c288c3ed0c8b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Mon Nov 20 12:19:33 2023 -0500
+
+    AUTO: update .canvas file
+
+[33mcommit 7ca309eac9535f4832472904a2a0947a196a67f4[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Fri Nov 17 16:12:47 2023 -0500
+
+    AUTO: replace github workflow
+
+[33mcommit e52b3891ce7cb002548eca7b00195c72f391eff1[m
+Merge: 30a6c0d 05640db
+Author: Linda Seiter <linseiter@gmail.com>
+Date:   Sun Nov 5 08:38:58 2023 -0500
+
+    Merge pull request #6 from linda-seiter/main-fixtypo
+    
+    fix typo in client sample code
+
+[33mcommit 05640db7102f108a1c82422dd3a12c8d8ce5ff2c[m
+Author: Linda Seiter <linseiter@gmail.com>
+Date:   Sun Nov 5 08:38:09 2023 -0500
+
+    fix typo in client sample code
+
+[33mcommit 30a6c0d070aa4058835cf5424a63bfbf722870f2[m
+Merge: 8e4fce2 c3118b4
+Author: Linda Seiter <linseiter@gmail.com>
+Date:   Thu Nov 2 13:07:34 2023 -0400
+
+    Merge pull request #2 from learn-co-curriculum/update-pipfile
+    
+    update Pipfile
+
+[33mcommit 8e4fce2e420f99713f50f6bdc9367b98d9ce2d44[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Wed Nov 1 18:51:36 2023 -0400
+
+    replace .gitignore
+
+[33mcommit c3118b423c849edc692b52cab5d270ccd9795375[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Fri Oct 6 09:34:53 2023 -0400
+
+    remove duplicate entries
+
+[33mcommit f062d0154f8f6e3f80a37d8be2f0d59c1a536683[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Thu Oct 5 18:28:50 2023 -0400
+
+    update Pipfile
+
+[33mcommit 69e191aa58e3eff6d89662b84c6a2a1bda76f2e2[m
+Author: Ben Botsford <ben.botsford@flatironschool.com>
+Date:   Mon Apr 10 16:50:37 2023 -0500
+
+    remove extraneous init_app
+
+[33mcommit 33a513dbb08ceddc26338dabf3b648d74d6b5d5d[m
+Author: Liz Burton <liz.burton147@gmail.com>
+Date:   Tue Mar 14 16:40:55 2023 -0400
+
+    AUTO: update react-scripts version
+
+[33mcommit b949e689a419b222bf044dc24c976c804b4476b9[m
+Author: Prabhdip Gill <prabhdip.gill@flatironschool.com>
+Date:   Fri Mar 10 00:27:53 2023 -0800
+
+    Add codegrade test
+
+[33mcommit 5dadb50d321de1d1e35fe22f79d4942490a297bb[m
+Author: Ben Botsford <ben.botsford@flatironschool.com>
+Date:   Tue Mar 7 13:05:06 2023 -0600
+
+    refactor pipfile
+
+[33mcommit b6441b585cb5b2b8aeb25ffaa32076cc38ff3c0a[m
+Author: Jerrica Bobadilla <jbobadilla27@gmail.com>
+Date:   Thu Jan 12 12:03:44 2023 -0800
+
+    update workflow
+
+[33mcommit 2dd88ed9d15ae7e5fadcfb1ae06c63017f80deeb[m
+Author: Ben Botsford <ben.botsford@flatironschool.com>
+Date:   Tue Nov 1 09:38:15 2022 -0500
+
+    update pipfile, lockfile
+
+[33mcommit 2f9d182993137a78cb8065bc12eed90efced1036[m
+Author: Ben Botsford <ben.botsford@flatironschool.com>
+Date:   Mon Oct 3 09:36:29 2022 -0500
+
+    finish v1
+
+[33mcommit b9fa2636d6b17e883e2f7117b9c8bf3459f77f59[m
+Author: Ben Botsford <ben.botsford@flatironschool.com>
+Date:   Sat Oct 1 18:17:44 2022 -0500
+
+    create canvas lesson
+
+[33mcommit a563451c2ae5bdd960072b14ee11d1b51bc62917[m
+Author: Ben Botsford <ben.botsford@flatironschool.com>
+Date:   Sat Oct 1 18:17:07 2022 -0500
+
+    finish lesson body
+
+[33mcommit 75f7b60400fd5465a0bd353c356de671511618f2[m
+Author: Jerrica Bobadilla <jbobadilla27@gmail.com>
+Date:   Mon Sep 26 12:25:19 2022 -0700
+
+    remove client
+
+[33mcommit 261bb247ccc6cae11b3590d3dc4b6ef6fa885c2a[m
+Author: Jerrica Bobadilla <jbobadilla27@gmail.com>
+Date:   Mon Sep 26 12:23:15 2022 -0700
+
+    organize client and server
